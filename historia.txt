@@ -1,4 +1,3 @@
-Pierwsza historia.
-Druga historia.
-Trzecia historia
-Podsumowanie historii.
+Pierwsza linia historii.
+Druga linia historii.
+Trzecia linia historii.
