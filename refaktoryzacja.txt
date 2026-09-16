@@ -1,2 +1,3 @@
 Pierwsza zmiana refaktoryzacyjna.
 Druga zmiana
+Trzecia zmiana
